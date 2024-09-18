@@ -1,3 +1,4 @@
+![logo](https://github.com/satyam9936/satyam9936/blob/main/wallpaperflare.com_wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Satyam Rastogi</h1>
 <h3 align="center">A passionate Full-Mern -stack developer</h3>
 
